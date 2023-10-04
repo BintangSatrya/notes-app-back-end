@@ -1,3 +1,3 @@
-const nodes =[]
+const notes =[]
 
-module.exports = nodes;
+module.exports = notes;
